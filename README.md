@@ -1,9 +1,9 @@
 # Spotify Clone
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AnirudhHanda/Spotify-Clone)
-![GitHub repo size](https://img.shields.io/github/repo-size/AnirudhHanda/Spotify-Clone)
-![GitHub issues](https://img.shields.io/github/issues/AnirudhHanda/Spotify-Clone)
-![GitHub stars](https://img.shields.io/github/stars/AnirudhHanda/Spotify-Clone)
+![GitHub last commit](https://img.shields.io/github/last-commit/AnirudhHanda/Spotify)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnirudhHanda/Spotify)
+![GitHub issues](https://img.shields.io/github/issues/AnirudhHanda/Spotify)
+![GitHub stars](https://img.shields.io/github/stars/AnirudhHanda/Spotify)
 
 A clone of the Spotify website created using HTML and CSS. This project aims to replicate the design and functionality of the official Spotify website.
 
